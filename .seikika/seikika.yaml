@@ -1,0 +1,2 @@
+apiVersion: seikika.com/v1alpha1
+portal: {name: example-unperformant-repo, owner: "group:maintainers", seikika: "0.2"}
